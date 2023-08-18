@@ -1,6 +1,5 @@
 import time  # to simulate a real time data, time loop
 
-pip install plotly
 !pip install streamlit
 import numpy as np  # np mean, np random
 import pandas as pd  # read csv, df manipulation
